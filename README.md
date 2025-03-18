@@ -14,6 +14,6 @@
 
 ###
 
-<p align="left">Dependendo das suas variáveis sabemos qual dos empréstimos uma pessoa terá acesso.</p>
+<p align="left">Dependendo das suas variáveis saberemos qual dos empréstimos uma pessoa terá acesso.</p>
 
 ###
